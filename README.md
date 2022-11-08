@@ -1,2 +1,2 @@
-# dummy
-This is a dummy of repo 
+# GitHub dummy
+This is a dummy and later i will add some codes  
